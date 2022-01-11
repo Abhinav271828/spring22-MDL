@@ -1,7 +1,7 @@
 ---
 title: Machine, Data and Learning (CS7.301)
 subtitle: |
-          | Monsoon 2021, IIIT Hyderabad
+          | Spring 2022, IIIT Hyderabad
           | 06 Jan, Thursday (Lecture 2)
 author: Taught by Prof. Vikram Pudi
 ---

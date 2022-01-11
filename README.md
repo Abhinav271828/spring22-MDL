@@ -19,4 +19,10 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
 # Lecture Contents
 * Week 1
     - Lecture 1 (03 Jan, Monday)
-        - 
+    - Lecture 2 (06 Jan, Thursday)
+        - Machine Learning
+            - Unsupervised Learning
+            - Supervised Learning
+            - Reinforcement Learning
+* Week 2
+    - Lecture 3 (10 Jan, Monday)
