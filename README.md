@@ -4,7 +4,7 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
 # Course Plan (tentative)
 - [x] Overview of AI and ML
 - [x] Data and Generalisation
-- [ ] Overfitting, Underfitting, Bias-Variance Tradeoff
+- [x] Overfitting, Underfitting, Bias-Variance Tradeoff
 - [ ] Techniques to Avoid Overfitting
 - [ ] Basics of Probability and Utility Theory
 - [ ] Construction of Formal Models
@@ -30,3 +30,9 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
         - Machine Learning (contd.)
             - AlphaGo
             - Generalisation and Goodness of Fit
+* Week 3
+    - Lecture 5 (17 Jan, Monday)
+        - Machine Learning (contd.)
+            - Bias-Variance Tradeoff
+            - Avoiding Overfitting
+                - Cross-Validation

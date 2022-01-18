@@ -6,6 +6,7 @@ subtitle: |
 author: Taught by Prof. Praveen Paruchuri
 ---
 
+# Machine Learning (contd.)
 ## AlphaGo
 AlphaGo was the first computer Go program to defeat a 9-dan professional player. It made use of the Monte Carlo tree search algorithm, augmented by knowledge of a large number of human games.  
 
