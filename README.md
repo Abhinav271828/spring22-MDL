@@ -36,3 +36,9 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
             - Bias-Variance Tradeoff
             - Avoiding Overfitting
                 - Cross-Validation
+    - Lecture 6 (20 Jan, Thursday)
+        - Machine Learning
+            - Avoiding Overfitting
+                - Cross-Validation (contd.)
+                - Regularisation
+                - Feature Selection
