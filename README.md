@@ -42,3 +42,11 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
                 - Cross-Validation (contd.)
                 - Regularisation
                 - Feature Selection
+* Week 4
+    - Lecture 7 (27 Jan, Thursday)
+        - Machine Learning
+            - Avoiding Overfitting
+                - Feature Selection (contd.)
+                - Dimensionality Reduction
+                - Data Preprocessing
+                - Feature Engineering
