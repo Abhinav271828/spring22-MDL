@@ -5,7 +5,7 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
 - [x] Overview of AI and ML
 - [x] Data and Generalisation
 - [x] Overfitting, Underfitting, Bias-Variance Tradeoff
-- [ ] Techniques to Avoid Overfitting
+- [x] Techniques to Avoid Overfitting
 - [ ] Basics of Probability and Utility Theory
 - [ ] Construction of Formal Models
 - [ ] Decision Theory
@@ -50,3 +50,10 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
                 - Dimensionality Reduction
                 - Data Preprocessing
                 - Feature Engineering
+* Week 6
+    - Lecture 8 (07 Feb, Monday)
+        - Solving Problems by Searching
+            - Problem-Solving Agents
+            - Problem Types
+                - Problem Formulation
+                - Searching Algorithms
