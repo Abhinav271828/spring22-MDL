@@ -2,7 +2,7 @@
 title: Machine, Data and Learning (CS7.301)
 subtitle: |
           | Spring 2022, IIIT Hyderabad
-          | 20 Jan, Thursday (Lecture 6)
+          | 27 Jan, Monday (Lecture 7)
 author: Taught by Prof. Praveen Paruchuri
 ---
 
