@@ -61,3 +61,7 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
         - Solving Problems by Searching (contd.)
             - Informed Search Algorithms
             - Heuristics
+* Week 7
+    - Lecture 10 (14 Feb, Monday)
+        - Solving Problems by Searching
+            - Informed Search Algorithms (contd.)
