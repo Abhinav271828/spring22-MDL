@@ -57,3 +57,7 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
             - Problem Types
                 - Problem Formulation
                 - Searching Algorithms
+    - Lecture 9 (10 Feb, Thursday)
+        - Solving Problems by Searching (contd.)
+            - Informed Search Algorithms
+            - Heuristics
