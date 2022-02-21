@@ -65,3 +65,7 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
     - Lecture 10 (14 Feb, Monday)
         - Solving Problems by Searching
             - Informed Search Algorithms (contd.)
+* Week 8
+    - Lecture 11 (21 Feb, Monday)
+        - Game Strategies
+            - Minimax
