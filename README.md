@@ -69,3 +69,7 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
     - Lecture 11 (21 Feb, Monday)
         - Game Strategies
             - Minimax
+* Week 9
+    - Lecture 12 (07 Mar, Monday)
+        - Overview of Data Analytics
+            - Association Rules
