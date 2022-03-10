@@ -73,3 +73,7 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
     - Lecture 12 (07 Mar, Monday)
         - Overview of Data Analytics
             - Association Rules
+    - Lecture 10 (10 Mar, Thursday)
+        - Overview of Data Analytics (contd.)
+            - Classification
+            - Clustering
