@@ -77,3 +77,11 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
         - Overview of Data Analytics (contd.)
             - Classification
             - Clustering
+* Week 10
+    - Lecture 11 (14 Mar, Monday)
+        - Overview of Data Analytics (contd.)
+            - Measurement of Similarity
+            - Clustering (contd.)
+* Week 11
+    - Lecture 12 (21 Mar, Monday)
+        - 
