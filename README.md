@@ -73,16 +73,21 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
     - Lecture 12 (07 Mar, Monday)
         - Overview of Data Analytics
             - Association Rules
-    - Lecture 10 (10 Mar, Thursday)
+    - Lecture 13 (10 Mar, Thursday)
         - Overview of Data Analytics (contd.)
             - Classification
             - Clustering
 * Week 10
-    - Lecture 11 (14 Mar, Monday)
+    - Lecture 14 (14 Mar, Monday)
         - Overview of Data Analytics (contd.)
             - Measurement of Similarity
             - Clustering (contd.)
 * Week 11
-    - Lecture 12 (21 Mar, Monday)
+    - Lecture 15 (21 Mar, Monday)
         - Overview of Data Analytics (contd)
             - Classification (contd.)
+* Week 13
+    - Lecture 16 (04 Apr, Monday)
+        - Utility Theory
+            - Risk
+        - Markov Decision Processes
