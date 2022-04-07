@@ -91,3 +91,8 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
         - Utility Theory
             - Risk
         - Markov Decision Processes
+    - Lecture 17 (07 Apr, Thursday)
+        - Markov Decision Processes (contd.)
+            - Policies
+            - Value Iteration
+            - Discounting
