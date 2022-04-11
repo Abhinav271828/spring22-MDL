@@ -96,3 +96,7 @@ Notes and resources for the Machine, Data and Learning course at IIIT Hyderabad.
             - Policies
             - Value Iteration
             - Discounting
+* Week 14
+    - Lecture 18 (11 Apr, Monday)
+        - Markov Decision Processes (contd.)
+            - Linear Programming
